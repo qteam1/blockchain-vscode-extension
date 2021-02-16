@@ -1477,7 +1477,7 @@
         "find-free-port": "^2.0.0",
         "fs-extra": "^7.0.1",
         "generator-fabric": "0.1.13",
-        "handlebars": "^4.5.3",
+        "handlebars": "^4.7.7",
         "home-dir": "1.0.0",
         "ibm-blockchain-platform-common": "^1.0.34",
         "ibm-blockchain-platform-environment-v1": "^1.0.34",
