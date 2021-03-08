@@ -1493,7 +1493,7 @@
         "uuid": "^3.3.2",
         "vscode-extension-telemetry": "0.1.1",
         "vscode-nls": "^4.0.0",
-        "yeoman-environment": "^2.3.3"
+        "yeoman-environment": "^3.0.0"
     },
     "nativeDependencies": [
         "grpc"
