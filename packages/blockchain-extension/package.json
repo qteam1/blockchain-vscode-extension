@@ -1488,7 +1488,7 @@
         "semver": "^6.3.0",
         "shelljs": "^0.8.3",
         "showdown": "^1.9.1",
-        "strip-ansi": "^4.0.0",
+        "strip-ansi": "^7.0.0",
         "through2": "^3.0.1",
         "uuid": "^3.3.2",
         "vscode-extension-telemetry": "0.1.1",
